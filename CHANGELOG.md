@@ -2,5 +2,6 @@
 
 ## v1.1.0
 
-- [feat] Site Proyectos Beta.
+- [feat] Add site Proyectos Beta.
 - [docs] Update readme file.
+- [feat] Add telegram social media.
