@@ -5,3 +5,4 @@
 - [feat] Add site Proyectos Beta.
 - [docs] Update readme file.
 - [feat] Add telegram social media.
+- [fix] Hide the header.
