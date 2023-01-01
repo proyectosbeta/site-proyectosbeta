@@ -4,7 +4,7 @@ The site from Proyectos Beta
 
 ## Tecnologies
 
-- HTML
+- HTML 5
 - CSS
-- Boostrap 5
-- Aweasome 5
+- Bootstrap v5.2
+- Font Awesome 6
