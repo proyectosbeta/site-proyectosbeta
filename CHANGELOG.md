@@ -3,6 +3,7 @@
 ## v1.1.0
 
 - [fix] Font Google Open Sans, size larger and change color.
+- [feat] Add link for the Wiki in the header.
 
 ## v1.0.0
 
