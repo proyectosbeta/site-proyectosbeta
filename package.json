@@ -2,7 +2,7 @@
   "name": "proyectosbeta.net",
   "private": true,
   "description": "The Proyectos Beta site",
-  "version": "0.1.0",
+  "version": "1.2.0",
   "author": "José Alberto Gonźlez von Schmeling <josego85@gmail.com>",
   "dependencies": {
     "gatsby": "^5.3.3",

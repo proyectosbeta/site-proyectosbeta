@@ -1,5 +1,9 @@
 # Release Notes
 
+## v1.2.0
+
+- [feat] New version site. Using gatsby 5
+
 ## v1.1.0
 
 - [fix] Font Google Open Sans, size larger and change color.
