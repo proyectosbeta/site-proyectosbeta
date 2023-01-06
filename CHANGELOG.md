@@ -2,7 +2,8 @@
 
 ## v1.2.0
 
-- [feat] New version site. Using gatsby 5
+- [feat] New version site. Using gatsby 5.
+- [docs] Update changelog file.
 
 ## v1.1.0
 
